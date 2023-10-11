@@ -1,4 +1,4 @@
-# Ex-No.4 Implementation of Approximate Inference in Bayesian Networks
+# Ex-04--Implementation of Approximate Inference in Bayesian Networks
 ## Aim : 
    To construct a python program to implement approximate inference using Gibbs Sampling.
 
